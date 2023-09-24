@@ -12,7 +12,8 @@ pip install -r requirements.txt
 
 1.现在用的GPT是 gpt4free 可能会断开需要翻墙，可以换成自己的。修改FreeGPT.py
 
-2.可扩展：在线视频转换总结，excel,ppt等总结。
+2.可扩展：在线视频转换总结，excel,ppt等总结。思路已经提供，尽情修改吧！
+
 
 
 ![81f612aae2975c1c5fa4bf4bceb5145](https://github.com/StartHua/video_summarize/assets/22284244/545a9c3c-e711-4569-8f61-7f0bd230856a)
