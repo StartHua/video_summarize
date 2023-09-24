@@ -9,6 +9,7 @@ ffmpeg
 pip install -r requirements.txt 
 
 可扩展：
+
 1.现在用的GPT是 gpt4free 可能会断开需要翻墙，可以换成自己的。修改FreeGPT.py
 
 2.可扩展：在线视频转换总结，excel,ppt等总结。
