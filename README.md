@@ -1,5 +1,5 @@
 # video_summarize
-video_summarize（视频总结：上传视频通过prompt对视频内容经行总结输出）
+video_summarize（视频总结：上传视频通过prompt对视频内容总结输出）
 
 安装：
 python3.9
